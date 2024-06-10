@@ -1,8 +1,8 @@
-package vsu.camundaOptimizer.mapper;
+package vsu.heatmapCreator.mapper;
 
 
-import vsu.camundaOptimizer.dto.HistoricActivityDto;
-import vsu.camundaOptimizer.entity.HistoricActivity;
+import vsu.heatmapCreator.dto.HistoricActivityDto;
+import vsu.heatmapCreator.entity.HistoricActivity;
 
 import java.util.List;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package vsu.camundaOptimizer.entity;
+package vsu.heatmapCreator.entity;
 
 import java.util.Date;
 

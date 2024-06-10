@@ -1,4 +1,4 @@
-package vsu.camundaOptimizer.dto;
+package vsu.heatmapCreator.dto;
 
 public class HistoricActivityDto {
     private String activityId;

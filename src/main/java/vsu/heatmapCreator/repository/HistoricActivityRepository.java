@@ -1,4 +1,4 @@
-package vsu.camundaOptimizer.repository;
+package vsu.heatmapCreator.repository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

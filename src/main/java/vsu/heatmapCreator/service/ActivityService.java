@@ -1,4 +1,4 @@
-package vsu.camundaOptimizer.service;
+package vsu.heatmapCreator.service;
 
 import org.camunda.bpm.engine.RepositoryService;
 import org.camunda.bpm.engine.repository.ProcessDefinition;

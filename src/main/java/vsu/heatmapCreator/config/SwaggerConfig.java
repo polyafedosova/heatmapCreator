@@ -1,4 +1,4 @@
-package vsu.camundaOptimizer.config;
+package vsu.heatmapCreator.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.models.OpenAPI;

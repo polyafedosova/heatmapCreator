@@ -1,8 +1,8 @@
-package vsu.camundaOptimizer.service;
+package vsu.heatmapCreator.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import vsu.camundaOptimizer.repository.HistoricActivityRepository;
+import vsu.heatmapCreator.repository.HistoricActivityRepository;
 
 import java.util.Date;
 import java.util.HashMap;
