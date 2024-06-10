@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: camundaOptimizer
+  datasource:
+    postgresql:
+      url: jdbc:postgresql://localhost:5432/postgres
+      driver-class-name: org.postgresql.Driver
+      username: postgres
+      password: password
+    clickhouse:
+      url: jdbc:clickhouse://localhost:8123/
+      driver-class-name: com.clickhouse.jdbc.ClickHouseDriver
+      username: username
+      password: password
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+server:
+  port: 8080
+
+camunda:
+  bpm:
+    database:
+      schema-update: true
+      type: postgres
+    admin-user:
+      id: posix
+      password: posix
